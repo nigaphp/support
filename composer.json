@@ -1,0 +1,19 @@
+{
+    "name": "nigatedev/support",
+    "description": "Nigatedev framework strings, files system, etc. support",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nigatedev\\Framework\\Support\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Abass Ben Cheik",
+            "email": "cheikabassben@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
