@@ -2,19 +2,19 @@
 declare(strict_types=1);
 
 /*
- * This file is part of the Nigatedev PHP framework package
+ * This file is part of the Niga PHP framework package
  *
- * (c) Abass Ben Cheik <abass@todaysdev.com>
+ * (c) Abass Dev <abass@abassdev.com>
  */
 
-namespace Nigatedev\Framework\Support;
+namespace Niga\Framework\Support;
 
-use Nigatedev\Framework\Support\Exception\StrException;
+use Niga\Framework\Support\Exception\StrException;
 
 /**
  * String supports
  *
- * @author Abass Ben Cheik <abass@todaysdev.com>
+ * @author Abass Dev <abass@abassdev.com>
  */
 class Str extends AbstractStr
 {

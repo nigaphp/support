@@ -1,11 +1,11 @@
 {
-    "name": "nigatedev/support",
-    "description": "Nigatedev framework strings, files system, etc. support",
+    "name": "niga/support",
+    "description": "Niga framework strings, files system, etc. support",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Nigatedev\\Framework\\Support\\": ""
+            "Niga\\Framework\\Support\\": ""
         }
     },
     "authors": [
